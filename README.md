@@ -1,4 +1,4 @@
-# Network-Scanner-Tool (Graduvation)
+# Network-Scanner-Tool
 
 Developed a comprehensive Network Scanner GUI tool capable of scanning IP ranges to detect live hosts, open ports, and MAC addresses using Scapy, Tkinter, OS-level ping.
 
@@ -40,7 +40,7 @@ Output window for displaying results
 
 ## Run:
 ```bash
-python network scanner.py
+python Network Scanner.py
 ```
 
 ## Output:
